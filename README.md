@@ -66,11 +66,11 @@ This project covers all required tasks:
    - Open MongoDB Compass or your Atlas dashboard.
    - Connect to your MongoDB instance.
    - Navigate to the `plp_bookstore` database and view the `books` collection.
-   
+
 
 ````markdown
 ## MongoDB Compass Screenshot
 
 Below is a screenshot of my `plp_bookstore` database and `books` collection in MongoDB Compass:
 
-![MongoDB Compass Screenshot](Images/screenshot.JPG)
+![MongoDB Compass Screenshot](./images/screenshot.JPG) 
