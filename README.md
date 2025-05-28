@@ -73,4 +73,4 @@ This project covers all required tasks:
 
 Below is a screenshot of my `plp_bookstore` database and `books` collection in MongoDB Compass:
 
-![MongoDB Compass Screenshot](./Images/screenshot.JPG) 
+![MongoDB Compass Screenshot](Images/screenshot.JPG) 
