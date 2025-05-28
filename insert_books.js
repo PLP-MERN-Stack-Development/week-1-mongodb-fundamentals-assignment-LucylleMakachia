@@ -131,7 +131,27 @@ const books = [
     in_stock: true,
     pages: 342,
     publisher: 'Thomas Cautley Newby'
-  }
+  },
+  {
+  title: 'Atomic Habits',
+  author: 'James Clear',
+  genre: 'Self-Help',
+  published_year: 2018,
+  price: 16.99,
+  in_stock: true,
+  pages: 320,
+  publisher: 'Penguin Random House'
+},
+{
+  title: 'The Vanishing Half',
+  author: 'Brit Bennett',
+  genre: 'Historical Fiction',
+  published_year: 2020,
+  price: 15.99,
+  in_stock: true,
+  pages: 352,
+  publisher: 'Riverhead Books'
+}
 ];
 
 // Function to insert books into MongoDB
